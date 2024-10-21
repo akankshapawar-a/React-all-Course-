@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  margin: 0;
+}
+
+.header{
+  color: white;
+background-color: rgb(32, 2, 61);
+padding: 14px;
+width: 100%;
+}
+.form{
+margin: 20px;
+}
+.data{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 14px;
+width: 100%;
+justify-content: space-between;
+
+background-color: gray;
+}
+.data_val{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+
+  padding:15px;
+}
